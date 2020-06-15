@@ -1,0 +1,27 @@
+{
+  "name": "notours",
+  "version": "1.0.0",
+  "description": "Landing Page",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node-sass sass/main.scss css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vahidffs/Notours.git"
+  },
+  "keywords": [
+    "SCSS"
+  ],
+  "author": "Vahid Nasri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vahidffs/Notours/issues"
+  },
+  "homepage": "https://github.com/Vahidffs/Notours#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "node-sass": "^4.14.1"
+  }
+}
